@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-Aspiring IT Proffesional that likes games and loves computers and the ways they work.
+Aspiring IT Professional that likes games and loves computers and the ways they work.
 
 ---
 
