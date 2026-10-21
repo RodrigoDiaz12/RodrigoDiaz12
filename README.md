@@ -36,8 +36,8 @@ Aspiring IT Professional that likes games and loves computers and the ways they 
 
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
+![Ip Addressing] (https://mycceducation.blob.core.windows.net/labs-prod/NET%20I%20-%20Day%207%20-%20Bring%20The%20Southbridge%20Online%20(IP%20Addressing).html?sv=2026-06-06&spr=https&st=2026-10-21T00%3A41%3A45Z&se=2026-10-21T00%3A57%3A45Z&sr=b&sp=r&sig=AsQsIf2BqeAaHPEuPDZKJWiaw49IYXSDhRV9e0u8tiY%3D&section=C)
 
-*No labs added yet.*
 
 </details>
 
