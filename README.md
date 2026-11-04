@@ -30,10 +30,6 @@ Aspiring IT Professional that likes games and loves computers and the ways they 
 
 💻 Programming Languages & Tools: ![PowerShell](https://img.shields.io/badge/PowerShell-0969da?style=flat-square)
 
-<iframe src="https://badges.parchment.com/public/assertions/-EhYvUIURUe3_YYKbOTNxw?embedVersion=1&amp;embedWidth=370&amp;embedHeight=167&amp;utm_source=html_embed" title="Badge: Pathways Commitment" style="width: 370px; height: 167px; border: 0px;"></iframe>
-
-
-
 
 ---
 
