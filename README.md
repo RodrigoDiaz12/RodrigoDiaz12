@@ -26,7 +26,10 @@ Aspiring IT Professional that likes games and loves computers and the ways they 
 
 🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-0969da?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-0969da?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-0969da?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-0969da?style=flat-square)
 
-🌐 Networking & Security: ![DNS](https://img.shields.io/badge/DNS-0969da?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square)
+🌐 Networking & Security: ![DNS](https://img.shields.io/badge/DNS-0969da?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square) ![TCP/IP](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square) ![DHCP](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square) ![SSH](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square)
+
+
+
 
 💻 Programming Languages & Tools: ![PowerShell](https://img.shields.io/badge/PowerShell-0969da?style=flat-square)
 
